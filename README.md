@@ -8,6 +8,21 @@
 
 ## Note
 
+## Reference
+[Wikipedia - HTTP Header Fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+
+[Wikipedia - Media Type (MIME, Content Type)](https://en.wikipedia.org/wiki/Media_type)
+
+[Wikipedia - HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+
+[Wikipedia - HTTP 301](https://en.wikipedia.org/wiki/HTTP_301)
+
+[Jerry Qu - 四种常见的 POST 提交数据方式](https://imququ.com/post/four-ways-to-post-data-in-http.html)
+
+[依旧淡然 - 使用Post方式提交数据](https://www.cnblogs.com/menlsh/archive/2013/05/22/3091983.html)
+
+[mkyong - Java HttpURLConnection follow redirect example](https://www.mkyong.com/java/java-httpurlconnection-follow-redirect-example/)
+
 ## License
 
     Copyright 2018 Jason Wang <jasonwangdev@gmail.com>
@@ -26,18 +41,3 @@
     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
     DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Reference
-[Wikipedia - HTTP Header Fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
-
-[Wikipedia - Media Type (MIME, Content Type)](https://en.wikipedia.org/wiki/Media_type)
-
-[Wikipedia - HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-
-[Wikipedia - HTTP 301](https://en.wikipedia.org/wiki/HTTP_301)
-
-[Jerry Qu - 四种常见的 POST 提交数据方式](https://imququ.com/post/four-ways-to-post-data-in-http.html)
-
-[依旧淡然 - 使用Post方式提交数据](https://www.cnblogs.com/menlsh/archive/2013/05/22/3091983.html)
-
-[mkyong - Java HttpURLConnection follow redirect example](https://www.mkyong.com/java/java-httpurlconnection-follow-redirect-example/)
