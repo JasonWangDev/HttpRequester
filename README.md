@@ -23,6 +23,8 @@
 
 [mkyong - Java HttpURLConnection follow redirect example](https://www.mkyong.com/java/java-httpurlconnection-follow-redirect-example/)
 
+[胡老哈 - HttpsURLConnection 忽略证书](https://blog.csdn.net/a102111/article/details/44311059)
+
 ## License
 
     Copyright 2018 Jason Wang <jasonwangdev@gmail.com>
