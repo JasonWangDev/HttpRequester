@@ -25,8 +25,6 @@
 
 [胡老哈 - HttpsURLConnection 忽略证书](https://blog.csdn.net/a102111/article/details/44311059)
 
-[zhuguohui - okhttp post 重定向参数丢失 跨协议重定向](https://www.jianshu.com/p/61a60859a317)
-
 ## License
 
     Copyright 2018 Jason Wang <jasonwangdev@gmail.com>
