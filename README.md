@@ -23,6 +23,8 @@
 
 [mkyong - Java HttpURLConnection follow redirect example](https://www.mkyong.com/java/java-httpurlconnection-follow-redirect-example/)
 
+[jijs - HttpURLConnection 中 Cookie 使用](https://www.jianshu.com/p/7a18524f1bfa)
+
 [胡老哈 - HttpsURLConnection 忽略证书](https://blog.csdn.net/a102111/article/details/44311059)
 
 ## License
