@@ -31,6 +31,8 @@
 
 [Kaka - GZIP 壓縮測試](http://www.webkaka.com/blog/archives/compression-gzip-for-bmp-images.html)
 
+[ - HttpUrlConnection with GZIP encoding](http://www.rgagnon.com/javadetails/java-HttpUrlConnection-with-GZIP-encoding.html)
+
 ## License
 
     Copyright 2018 Jason Wang <jasonwangdev@gmail.com>
