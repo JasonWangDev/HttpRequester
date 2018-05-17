@@ -27,6 +27,8 @@
 
 [胡老哈 - HttpsURLConnection 忽略证书](https://blog.csdn.net/a102111/article/details/44311059)
 
+[你说你想要一场革命 - cannot be cast to javax.net.ssl.HttpsURLConnection](https://www.jianshu.com/p/f1b55c07d331)
+
 ## License
 
     Copyright 2018 Jason Wang <jasonwangdev@gmail.com>
