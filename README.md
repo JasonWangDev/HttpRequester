@@ -11,6 +11,8 @@
 ## Reference
 [Wikipedia - HTTP Header Fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
 
+[Wikipedia - HTTP compression](https://en.wikipedia.org/wiki/HTTP_compression)
+
 [Wikipedia - Media Type (MIME, Content Type)](https://en.wikipedia.org/wiki/Media_type)
 
 [Wikipedia - HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
