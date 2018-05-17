@@ -29,6 +29,8 @@
 
 [你说你想要一场革命 - cannot be cast to javax.net.ssl.HttpsURLConnection](https://www.jianshu.com/p/f1b55c07d331)
 
+[Kaka - GZIP 壓縮測試](http://www.webkaka.com/blog/archives/compression-gzip-for-bmp-images.html)
+
 ## License
 
     Copyright 2018 Jason Wang <jasonwangdev@gmail.com>
