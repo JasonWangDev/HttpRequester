@@ -35,6 +35,8 @@
 
 [ - HttpUrlConnection with GZIP encoding](http://www.rgagnon.com/javadetails/java-HttpUrlConnection-with-GZIP-encoding.html)
 
+[halloffame - HttpURLConnection download gzip file](http://zhuwx.iteye.com/blog/2363387)
+
 ## License
 
     Copyright 2018 Jason Wang <jasonwangdev@gmail.com>
